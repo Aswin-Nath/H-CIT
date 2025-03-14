@@ -1,8 +1,8 @@
-Windows
-"C:\Program Files\Google\Chrome\Application\chrome.exe" --kiosk --disable-pinch --disable-new-tab-button --overscroll-history-navigation=0 --disable-infobars --no-first-run --disable-popup-blocking --disable-session-crashed-bubble --disable-features=TranslateUI,AutofillAssistant,TabHoverCardImages,TabHoverCards,TabGroups --disable-background-mode --disable-sync-preferences --disable-restore-session-state --disable-quic --no-default-browser-check "https://www.hackerrank.com/hcit-2025-i-r1-slot2"
+https://www.hackerrank.com/hcit-2025-i-finals
 
-Mac
-/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --kiosk --disable-pinch --disable-new-tab-button --overscroll-history-navigation=0 --disable-infobars --no-first-run --disable-popup-blocking --disable-session-crashed-bubble --disable-features=TranslateUI,AutofillAssistant,TabHoverCardImages,TabHoverCards,TabGroups --disable-background-mode --disable-sync-preferences --disable-restore-session-state --disable-quic --no-default-browser-check "https://www.hackerrank.com/hcit-2025-i-r1-slot2"
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --kiosk https://www.hackerrank.com/hcit-2025-i-finals
 
-Linux
-google-chrome --kiosk --disable-pinch --disable-new-tab-button --overscroll-history-navigation=0 --disable-infobars --no-first-run --disable-popup-blocking --disable-session-crashed-bubble --disable-features=TranslateUI,AutofillAssistant,TabHoverCardImages,TabHoverCards,TabGroups --disable-background-mode --disable-sync-preferences --disable-restore-session-state --disable-quic --no-default-browser-check "https://www.hackerrank.com/hcit-2025-i-r1-slot2"
+
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --kiosk https://www.hackerrank.com/hcit-2025-i-finals
+
+
